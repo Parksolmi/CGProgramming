@@ -25,4 +25,5 @@ Repository for saving practice, assignments, and projects of 'CG Programming'.
 <img width="80%" src = "https://user-images.githubusercontent.com/69065439/149367198-5ba57a11-1ed4-489b-bd48-661dccc8069b.GIF" />
 <img width="80%" src = "https://user-images.githubusercontent.com/69065439/149367200-1459f4cb-4a41-489c-bcf9-aaaef57c08dd.GIF" />
 
+- Play Image
 - Play Video
