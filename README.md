@@ -8,9 +8,9 @@ Repository for saving practice, assignments, and projects of 'CG Programming'.
 - 미니게임4-InfiniteStep
 
 ## Projects
-- 기말프로젝트_LittleForest
+- LittleForest
 
-### 🌳기말프로젝트_LittleForest🌲
+### 🌳LittleForest🌲
 - Instructions
 <img width="80%" src = "https://user-images.githubusercontent.com/69065439/149367203-b3263fdb-68f5-4f4c-a129-7d361665cc5a.GIF" />
 <img width="80%" src = "https://user-images.githubusercontent.com/69065439/149367169-726d3b1c-8453-4918-ba43-506d27574f62.GIF" />
